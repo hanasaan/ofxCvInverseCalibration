@@ -1,7 +1,7 @@
 ofxCvInverseCalibration
 =======================
 
-OF addon calculateing inverse of lens distortion coefficients
+OF addon calculating inverse of lens distortion coefficients
 
 Working in progress.
 
